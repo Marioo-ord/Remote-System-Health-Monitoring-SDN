@@ -1,6 +1,6 @@
-Project Screenshots
+**Project Screenshots**
 
-Dashboard Interface
+**Dashboard Interface**__
 
 Displays real-time monitoring information for all simulated systems including:
 
@@ -13,30 +13,30 @@ Displays real-time monitoring information for all simulated systems including:
 
 The dashboard categorizes systems as Healthy, Unhealthy, Charging, or Unresponsive and provides a centralized view of system health.
 
-Screenshot:
+**Screenshot:**__
 Dashboard.png
 
 
-SDN Controller
+**SDN Controller**__
 
 Shows the Ryu SDN controller monitoring network traffic and detecting monitoring packets sent over UDP Port 9999.
 
-Key observations:
+**Key observations:**__
 
 - OpenFlow 1.3 Controller
 - Monitoring traffic detection
 - Dynamic flow rule installation
 - Traffic prioritization for monitoring packets
 
-Screenshot:
+**Screenshot:**__
 SDN_Controller.png
 
 
-Mininet Topology
+**Mininet Topology**__
 
 Shows successful deployment of the Mininet-based SDN environment.
 
-Key observations:
+**Key observations:**__
 
 - 50 simulated server hosts
 - 1 centralized monitoring node
@@ -44,11 +44,11 @@ Key observations:
 - Ryu controller connectivity
 - Automated agent deployment
 
-Screenshot:
+**Screenshot:**__
 Topology_execution.png
 
 
-Demonstrated Features
+**Demonstrated Features**__
 
 ✓ UDP Socket Communication
 
