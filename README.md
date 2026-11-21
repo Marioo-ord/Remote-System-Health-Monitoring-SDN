@@ -61,9 +61,9 @@ The SDN controller identifies monitoring traffic on UDP Port 9999 and installs h
 
 ## Team Members
 
-- Rudraksh (PES1UG25CS430)
-- Pruthviraj (PES1UG25CS397)
-- Rachit (PES1UG25CS404)
+- Rudraksh Ranjan Kolte (PES1UG25CS430)
+- Pruthviraj Umesh Navani (PES1UG25CS397)
+- Rachit Chandra (PES1UG25CS404)
   
 ## Conclusion
 
