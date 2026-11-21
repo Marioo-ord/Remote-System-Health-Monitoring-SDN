@@ -68,3 +68,11 @@ The SDN controller identifies monitoring traffic on UDP Port 9999 and installs h
 ## Conclusion
 
 This project demonstrates the integration of UDP socket programming with Software Defined Networking. It provides centralized monitoring, real-time visualization, dynamic traffic prioritization, and scalable deployment in a Mininet environment.
+
+## Screenshots
+
+Project screenshots are available in the screenshots folder.
+
+- Dashboard Interface
+- SDN Controller Output
+- Mininet Topology Execution
