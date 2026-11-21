@@ -49,7 +49,7 @@ ryu-manager sdn_controller.py
 
 Terminal 2:
 
-sudo python3 topology.py --servers 3
+sudo python3 topology.py --servers 50
 
 Terminal 3:
 
